@@ -49,7 +49,7 @@ Contributions are welcome! To contribute, fork the repository and create a new b
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE.txt] file for details.
 
 ## Acknowledgments
 
